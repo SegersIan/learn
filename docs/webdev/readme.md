@@ -1,5 +1,8 @@
 # Web Development
 
+## Topics To Cover:
+
+::: warning
 * Web Development
 * Protocols
 * HTTP
@@ -12,3 +15,5 @@
 * Server Side vs Client Side Rendering
 * "static" vs "dynamic" content
 * Work with the internet, not against
+* Todo
+:::

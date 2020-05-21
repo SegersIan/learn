@@ -1,4 +1,6 @@
 {
+  "name": "learn.segersian.com",
+  "license": "CC BY-NC-ND 4.0",
   "devDependencies": {
     "vuepress": "^1.4.1"
   },

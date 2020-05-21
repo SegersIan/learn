@@ -7,7 +7,7 @@ module.exports = {
     },
     themeConfig: {
         logo: '/logo.jpg',
-        displayAllHeaders: true,
+        displayAllHeaders: false,
         lastUpdated: 'Last Updated',
         repo: 'segersian/learn',
         repoLabel: 'GitHub',
