@@ -20,6 +20,7 @@ jobs:
       env:
         ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BASE_BRANCH: master
+        CNAME: learn.segersian.com
         BRANCH: gh-pages
         FOLDER: docs/.vuepress/dist # The folder the action should deploy.
-        BUILD_SCRIPT: yarn docs:build 
+        BUILD_SCRIPT: npm run docs:build
