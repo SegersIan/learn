@@ -5,4 +5,6 @@ Based on my experience and personal interest I will cover some topics more exten
 
 I'm open for any constructive feedback. This site is maintained in my free time with the best intention to share knowledge with anyone interested in and out the Software Engineering industry. You can reach me via in several ways, check out my [homepage](https://segersian.com/). I'll try to do my best to be in touch ASAP.
 
+The topics are continiously added and improved. Check out reguraly for updates.
+
 Enjoy Reading :)

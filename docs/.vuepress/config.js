@@ -33,6 +33,7 @@ module.exports = {
                 sidebarDepth: 0,
                 children: []
             },
+            /*
             {
                 title: 'General Development',
                 path: '/general-dev/',
@@ -46,7 +47,7 @@ module.exports = {
                 collapsable: false,
                 sidebarDepth: 1,
                 children: []
-            },
+            },*/
             {
                 title: 'Cloud Development',
                 path: '/cloud-dev/',
