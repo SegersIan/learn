@@ -3,7 +3,7 @@ home: true
 heroText: Learn
 tagline: A lot on Software Engineering. For free.
 actionText: Get Started →
-actionLink: /webdev/
+actionLink: /web-dev/
 features:
 - title: Free
   details: I write this in my free time.

@@ -12,7 +12,7 @@ module.exports = {
         repo: 'segersian/learn',
         repoLabel: 'GitHub',
         smoothScroll: true,
-        sidebarDepth: 2,
+        //sidebarDepth: 1,
         nav: [
             {
                 text: 'Home',
@@ -27,15 +27,29 @@ module.exports = {
         ],
         sidebar: [
             {
+                title: 'Introduction',
+                path: '/introduction/',
+                collapsable: false,
+                sidebarDepth: 0,
+                children: []
+            },
+            {
+                title: 'General Development',
+                path: '/general-dev/',
+                collapsable: false,
+                sidebarDepth: 1,
+                children: []
+            },
+            {
                 title: 'Web Development',
-                path: '/webdev/',
+                path: '/web-dev/',
                 collapsable: false,
                 sidebarDepth: 1,
                 children: []
             },
             {
                 title: 'Cloud Development',
-                path: '/cloud/',
+                path: '/cloud-dev/',
                 collapsable: false,
                 sidebarDepth: 1,
                 children: []
